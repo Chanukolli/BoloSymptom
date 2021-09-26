@@ -8,7 +8,7 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Room for Improvement](#room-for-improvement)
-* [Team Members](#team_members)
+* [Team Members](#team-members)
 
 ## App Description
 - The name of the app that we developed is "Bolo symptom". 
