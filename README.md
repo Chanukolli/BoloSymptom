@@ -54,7 +54,7 @@
 - including more test cases for diseses to make the app more accurate.
 
 ## Team Members
-- K.Chanakya Raghavendra (19BCN7141)
-- B.Vignesh(19BCE7085)
-- N.Dhanunjay(19BCN7025)
-- P.V.Sai Pavan Kalyan(19BCE7414)
+- K.Chanakya Raghavendra (raghavendra.19bcn7141@vitap.ac.in)
+- B.Vignesh (vignesh.19bce7085@vitap.ac.in)
+- N.Dhanunjay (dhanujay.19bcn7025@vitap.ac.in)
+- P.V.Sai Pavan Kalyan (pavan.19bce7414@vitap.ac.in)
