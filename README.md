@@ -8,6 +8,7 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Room for Improvement](#room-for-improvement)
+* [Team Members](#team_members)
 
 ## App Description
 - The name of the app that we developed is "Bolo symptom". 
@@ -33,6 +34,10 @@
 ## Screenshots
 ![](./Screenshot_20210926-184724.jpg)
 
+![](./Screenshot_20210926-190149.jpg)
+
+![](./Screenshot_20210926-190225.jpg)
+
 ![](./Screenshot_20210926-185027.jpg)
 
 ![](./Screenshot_20210926-185041.jpg)
@@ -43,12 +48,13 @@
 
 ![](./Screenshot_20210926-185831.jpg)
 
-![](./Screenshot_20210926-190149.jpg)
-
-![](./Screenshot_20210926-190225.jpg)
 
 ## Room for Improvement
 - Chatbot for making an appointment to consult a doctor 
 - including more test cases for diseses to make the app more accurate.
- 
 
+## Team Members
+- K.Chanakya Raghavendra (19BCN7141)
+- B.Vignesh(19BCE7085)
+- N.Dhanunjay(19BCN7025)
+- P.V.Sai Pavan Kalyan(19BCE7414)
